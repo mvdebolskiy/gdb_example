@@ -28,3 +28,4 @@
 5. Attach gdb to a process: `gdb --pid pid`
 6. Enjoy
 
+...
